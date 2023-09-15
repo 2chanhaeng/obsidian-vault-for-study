@@ -1,1 +1,5 @@
-HyperText Trans
+HyperText Transfer Protocol
+하이퍼미디어 문서(주로 HTML로 대표됨)를 송수신하기 위한 `프로토콜/통신규약` 중 하나
+브라우저(클라이언트)와 서버 간의
+
+#프로토콜/통신규약 #용어설명  
