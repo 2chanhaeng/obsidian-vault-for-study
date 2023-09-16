@@ -1,2 +1,2 @@
 [[HTTP|HTTP]] + [[TLS|TLS]]
-TLS 암호화를 통한 HTTP 통신
+TLS 를 통해 보안을 구축한 HTTP 통신
