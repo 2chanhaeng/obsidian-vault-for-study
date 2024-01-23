@@ -14,3 +14,13 @@ aliases:
 		Metropolitan Area Network
 		도시 크기의 망
 	- [[LAN]]
+
+## 성능
+[[네트워크 성능 분석]]
+
+## 표준화
+[[IEEE]]
+
+## 모델
+- [[TCP/IP 4계층 모델]]
+- [[OSI 7 계층]]
