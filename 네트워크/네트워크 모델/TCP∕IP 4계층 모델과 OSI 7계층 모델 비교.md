@@ -7,8 +7,10 @@
     </thead>
     <tbody>
       <tr>
-        <td rowspan="3">응용 계층</td>
-        <td>응용 계층</td>
+        <td rowspan="3">
+	        <a href="TCP∕IP/TCP∕IP 4계층 모델과 OSI 7계층 모델 비교">애플리케이션 계층</a>
+        </td>
+        <td>애플리케이션 계층</td>
       </tr>
       <tr>
         <td>표현 계층</td>
