@@ -1,2 +1,2 @@
-# obsidian-vault-for-study
-공부해서 [옵시디언](https://obsidian.md/)에 기록한 저장소
+# Obsidian Vault For Study
+공부 기록 [옵시디언](https://obsidian.md/) 저장소
