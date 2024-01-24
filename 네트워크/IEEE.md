@@ -8,3 +8,5 @@ Institute of Electrical and Electronics Engineers, 전기전자공학자협회
 		유선 LAN 에 사용되는 표준 규격
 	- IEEE 802.11
 		무선 LAN 에 사용되는 표준 규격
+
+#설명/용어 #네트워크 

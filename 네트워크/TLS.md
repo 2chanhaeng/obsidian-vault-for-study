@@ -17,4 +17,4 @@ sequenceDiagram
 Note over Server,Client: 동일한 master secret으로 각자 세션키 생성하여<br/>대칭키 암호를 통한 보안 통신 구성
 ```
 
-#용어설명 #보안
+#설명/용어 #보안

@@ -11,3 +11,5 @@ aliases:
 - [[Star Topology]]
 - [[Ring Topology]]
 - [[Mesh Topology]]
+
+#설명/용어 #네트워크/토폴로지 
