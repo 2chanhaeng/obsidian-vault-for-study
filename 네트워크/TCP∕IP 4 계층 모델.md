@@ -9,3 +9,5 @@ aliases:
 - 링크 계층
 
 ![[TCP∕IP 4계층 모델과 OSI 7계층 모델 비교]]
+
+#TCP/IP 
