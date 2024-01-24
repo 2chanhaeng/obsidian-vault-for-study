@@ -5,3 +5,4 @@ data access layer
 - [[DataBase|DataBase]]
 - [[API|API]]
 - [[MVC|MVC]]의 Model, Controller
+#용어설명 
