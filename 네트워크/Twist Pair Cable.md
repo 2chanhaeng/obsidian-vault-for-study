@@ -4,6 +4,7 @@ aliases:
   - 연선
 ---
 8개의 케이블을 2개씩 짝을 지어 꼬아놓은 케이블
+[[Registered Jack]]-45 잭(암)/커넥터(수)로 연결
 ![[Pasted image 20240125171909.png]]
 - UTP 비차폐 연선
 	- Unshielded Twist Pair
