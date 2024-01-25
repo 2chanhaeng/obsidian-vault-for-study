@@ -1,2 +1,5 @@
-Internet Control Message [[Protocol]]
+---
+aliases:
+  - ICMP
+---
 네트워크 컴퓨터 위에서 돌아가는 [[OS|운영체제]]에서 오류 메시지를 전송받는 데 주로 쓰임 #설명/용어 #네트워크/프로토콜
