@@ -5,4 +5,4 @@ aliases:
 네트워크 통신을 위한 기술
 IEEE 802.3 프로토콜을 따름
 유선 [[LAN]]을 위해 만들어짐
-[[CSMA/CD]]
+[[Carrier Sense Multiple Access with Collision Detection]]
