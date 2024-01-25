@@ -1,1 +1,1 @@
-[[IEEE]] 802.3 [[Protocol|프로토콜]]을 따르는 이더넷
+[[IEEE]] 802.3 [[Protocol|프로토콜]]을 따르는 [[Ethernet|이더넷]]
