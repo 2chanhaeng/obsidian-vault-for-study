@@ -12,4 +12,4 @@ aliases:
 
 ![[TCP∕IP 4계층 모델과 OSI 7계층 모델 비교]]
 
-#설명/모델 #TCP∕IP
+#설명/모델 #네트워크/TCP∕IP
