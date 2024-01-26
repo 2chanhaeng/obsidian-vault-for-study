@@ -13,3 +13,5 @@
 - [[Wi-Fi]]
 - Bluetooth
 - Zigbee -> Matter
+
+#설명/용어 #네트워크 
