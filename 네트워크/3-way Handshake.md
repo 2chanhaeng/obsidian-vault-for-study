@@ -17,4 +17,4 @@ sequenceDiagram
 3. SYN+ACK: Server -{ SYN (Server ISN) + [[ACK]] (Client ISN + 1) }> Client
 4. ACK: Client -{ ACK (Server ISN + 1) }> Server
 
-#설명/과정 #네트워크/TCP∕IP 
+#설명/과정 #네트워크/TCP／IP 

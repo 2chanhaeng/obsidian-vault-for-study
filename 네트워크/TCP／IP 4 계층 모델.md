@@ -11,9 +11,9 @@ aliases:
 - [[링크 계층]]
 
 [[Protocol  Data Unit|PDU]]
-[[TCP∕IP 4 계층 모델 계층 간 데이터 송수신 과정]]
+[[TCP／IP 4 계층 모델 계층 간 데이터 송수신 과정]]
 
 
-![[TCP∕IP 4계층 모델과 OSI 7계층 모델 비교]]
+![[TCP／IP 4계층 모델과 OSI 7계층 모델 비교]]
 
-#설명/모델 #네트워크/TCP∕IP
+#설명/모델 #네트워크/TCP／IP

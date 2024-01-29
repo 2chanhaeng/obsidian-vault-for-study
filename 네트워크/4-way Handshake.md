@@ -22,4 +22,4 @@ sequenceDiagram
 
 [[TIME_WAIT]]
 
-#설명/과정 #네트워크/TCP∕IP 
+#설명/과정 #네트워크/TCP／IP 
