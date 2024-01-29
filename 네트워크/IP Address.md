@@ -12,7 +12,8 @@ aliases:
 - [[IPv4]]
 - [[IPv6]]
 ## 할당 방식
-- [[Classful Network|클래스 기반 IP 할당 방식]]
+- ~~[[Classful Network|클래스 기반 IP 할당 방식]]~~: 더이상 사용하지 않음
 - [[Dynamic Host Configuration Protocol|DHCP]]
+- [[Network Address Translation|NAT]]
 
 #설명/용어 #네트워크
