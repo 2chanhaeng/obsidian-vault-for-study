@@ -9,7 +9,7 @@ aliases:
 
 - [[Cypher Suites]]
 - [[TLS 인증 매커니즘]]
-- [[디피-헬만 키 교환 암호화 알고리즘]]
+- [[Diffie–Hellman 키 교환]]
 ```mermaid
 sequenceDiagram
   Client-->>Server: ClientHello: 사용할 수 있는 보안 알고리즘 수준
