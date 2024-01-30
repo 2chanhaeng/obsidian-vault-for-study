@@ -8,6 +8,7 @@ aliases:
 통신 간 보안을 보장하지만 클라이언트나 서버가 해킹 당했거나 사이트 자체가 가짜 사이트 인 등 노드의 보안은 보장하지 않는다.
 
 - [[Cypher Suites]]
+- [[TLS 인증 매커니즘]]
 
 ```mermaid
 sequenceDiagram
