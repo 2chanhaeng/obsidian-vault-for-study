@@ -5,4 +5,6 @@ TCP에서는 패킷의 순서를 보장하기 위해 순차적으로 주고 받�
 이를 TCP의 HOL Blocking이라고 함.
 
 ## 방지법
-- [[Proportional Rate Reduction for TCP]]
+- [[CUBIC TCP|CUBIC]]
+- [[Proportional Rate Reduction for TCP|PRR]]
+- [[Bottleneck Bandwidth and Round-trip propagation time|BBR]]
