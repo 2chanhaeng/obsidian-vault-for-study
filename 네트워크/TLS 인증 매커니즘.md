@@ -1,1 +1,1 @@
-[[Certificate Authorities|CA]]에서 발급한 인증서를 기반으로 
+[[Certificate Authority|CA]]에서 발급한 인증서를 기반으로 
