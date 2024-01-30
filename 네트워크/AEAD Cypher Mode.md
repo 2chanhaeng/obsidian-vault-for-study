@@ -4,4 +4,4 @@ aliases:
 ---
 Authenticated Encryption with Associated Data
 데이터 암호화 알고리즘
-AES128GCM
+AES_128_GCM = AES128 + 
