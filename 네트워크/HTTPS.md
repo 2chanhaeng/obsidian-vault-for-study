@@ -1,4 +1,4 @@
-[[HTTP|HTTP]] + [[Transport Layer Security|Transport Layer Security]]
+[[HTTP|HTTP]] + [[Transport Layer Security|TLS]]
 TLS 를 통해 보안을 구축한 HTTP 통신
 
 #설명/용어 
