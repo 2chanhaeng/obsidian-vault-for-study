@@ -1,4 +1,4 @@
-보안 세션에 사용할 프로토콜, AEAD 사이퍼 모드, [[Hash|해싱]] 알고리즘이 나열된 규약
+보안 세션에 사용할 프로토콜, [[AEAD Cypher Mode]], [[Hash|해싱]] 알고리즘이 나열된 규약
 - TLS_AES_128_GCM_SHA256
 - TLS_AES_256_GCM_SHA384
 - TLS_CHACHA20_POLY1305_SHA256
