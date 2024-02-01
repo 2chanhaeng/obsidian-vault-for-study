@@ -11,9 +11,10 @@ aliases:
 - 디스크 파일 관리
 - I/O 디바이스 관리
 ## 구조
+GUI~드라이버를 운영체제라고 함
 - 유저 프로그램
 - **[[Graphical User Interface|GUI]]** (OS에 따라 없을 수도 있음 e.g. 서버용 리눅스)
-- **[[System Call|System Call]]**
-- **커널**
-- **[[Driver]]**
+- **[[System Call|시스템 콜]]**
+- **[[Kernel|커널]]**
+- **[[Driver|드라이버]]**
 - 하드웨어
