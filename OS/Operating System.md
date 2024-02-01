@@ -13,7 +13,7 @@ aliases:
 ## 구조
 - 유저 프로그램
 - **[[Graphical User Interface|GUI]]** (OS에 따라 없을 수도 있음 e.g. 서버용 리눅스)
-- **시스템 콜**
+- **[[System Call|System Call]]**
 - **커널**
-- **드라이버**
+- **[[Driver]]**
 - 하드웨어
