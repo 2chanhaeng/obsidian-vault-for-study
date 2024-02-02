@@ -6,4 +6,4 @@ aliases:
 서버가 요청할 경우 [[Browser|브라우저]]에서 값을 보낼 수 있음
 서로 다른 요청이 같은 브라우저에서 보낸 값인지 판단할 때 주로 사용
 [[Stateless|상태가 없는]] [[HTTP]]에서 상태 정보를 기억하기 위해 주로 사용
-- `same-site`: `strict` 이 
+- `SameSite`: `strict` 이 
