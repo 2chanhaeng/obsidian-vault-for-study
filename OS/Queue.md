@@ -1,0 +1,1 @@
+[[First In First Out|FIFO]] 기반 자료구조
