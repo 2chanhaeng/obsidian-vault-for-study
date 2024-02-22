@@ -1,0 +1,1 @@
+[[Process|프로세스]]가 [[Central Processing Unit|CPU]]와 [[Memory|메모리]]를 모두 할당 받고 연산을 실행중인 상태

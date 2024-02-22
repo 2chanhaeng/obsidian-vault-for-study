@@ -4,9 +4,9 @@ aliases:
 ---
 [[Central Processing Unit|CPU]]에서 실행되기위해 준비된 [[Process|프로세스]] [[Process State|상태]]
 
-준비 중이던 프로세스가  [[실행 상태|실행]]되는 것을 [[Dispatch|디스패치]]
+준비 중이던 프로세스가  [[Running|실행]]되는 것을 [[Dispatch|디스패치]]
 실행 중이던 프로세스가 [[Timeout|시간 제한에 걸려 중지되고]] 준비 상태로 전환
-[[Ready State|대기]] 중이던 프로세스가 다시 준비 상태로 넘어오는 것을 [[Wake Up]]
+[[Ready|대기]] 중이던 프로세스가 다시 준비 상태로 넘어오는 것을 [[Wake Up]]
 [[Memory|메모리]]가 부족할 경우 대기 중단(Ready Suspended) 됨
 
 

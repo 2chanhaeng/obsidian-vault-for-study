@@ -1,0 +1,1 @@
+[[Process|프로세스]]가 [[Memory|메모리]]와 [[Central Processing Unit|CPU]]를 모두 놓고 종료된 상태
