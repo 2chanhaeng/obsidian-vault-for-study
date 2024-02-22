@@ -3,7 +3,7 @@ aliases:
   - 프로세스의 상태
 ---
 [[Process|프로세스]]가 가질 수 있는 상태
-- [[Created|생성 상태]]
+- [[Created State]]
 - [[Ready State|대기 상태]]
 - [[실행 상태|실행 상태]]
 - [[중단 상태|중단 상태]]
