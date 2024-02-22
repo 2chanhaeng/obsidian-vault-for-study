@@ -9,4 +9,4 @@ aliases:
 - [[중단 상태|중단 상태]]
 - [[종료 상태|종료 상태]]
 
-[[Operating System|OS]]가 요청에 따라 [[Kernel|커널]]에 등록되어 [[Process Control Block|PCB]]가 만들 ㅡ 프로세스가 생성 중이라고 함
+
